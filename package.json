@@ -1,0 +1,13 @@
+{
+  "name": "mindmap-core",
+  "version": "0.1.0",
+  "description": "Lightweight framework-agnostic JavaScript mind map core.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["mindmap", "core", "javascript"],
+  "author": "OpenAI Assistant",
+  "license": "MIT"
+}
